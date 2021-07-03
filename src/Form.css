@@ -1,0 +1,41 @@
+.frm{
+    background-color: skyblue;
+    display: flex;
+    flex-direction: column;
+    width: 40vw;
+    height: 60vh;
+    margin: auto;
+    border-radius: 8px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background: 1px solid wheat;
+}
+
+input{
+margin: 20px;
+font-size: medium;
+color: darkblue;
+}
+
+label{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+}
+
+.btn{
+    font-size: large;
+    padding: 5px;
+    background-color: green;
+    color: white;
+    border: 1px solid green;
+    border-radius: 4px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+h3{
+    color: darkgreen;
+    margin-top: 10px; ;
+}
